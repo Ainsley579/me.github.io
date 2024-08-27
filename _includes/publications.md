@@ -88,8 +88,8 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2307.09699">ActorLens: Visual Analytics for High-level Actor Identification in MOBA Games</a></div>
-        <div class="author">Zhihua Jin, Gaoping Huang, Zixin Chen, <strong><u>Shiyi Liu</u></strong>u, Yang Chao, Zhenchuan Yang, Quan Li, Huamin Qu</div>
-        <div class="periodical">2023.</em>
+        <div class="author">Zhihua Jin, Gaoping Huang, Zixin Chen, <strong><u>Shiyi Liu</u></strong>, Yang Chao, Zhenchuan Yang, Quan Li, Huamin Qu</div>
+        <div class="periodical">2023.
         </div>
       <div class="links">
          
@@ -102,6 +102,34 @@
     </div>
   </div>
   </li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+       
+      <img src="./assets/img/teaser_ActorLens.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+       
+      <abbr class="badge">VIS poster</abbr>
+      
+      
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/abs/2407.03045">JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets</a></div>
+        <div class="author">Zhihua Jin, <strong><u>Shiyi Liu</u></strong>, Haotian Li, Xun Zhao, Huamin Qu</div>
+        <div class="periodical">2023.
+        </div>
+      <div class="links">
+         
+        <a href="https://arxiv.org/abs/2407.03045" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
+        <!-- <i style="color:#ef8f12">Poster</i> -->
+        
+        
+      </div>
+    </div>
+  </div>
+  </li>
+
 <br />
 
 </ol>
