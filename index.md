@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am Shiyi LIU (刘诗逸), currently a Ph.D. student in the [School of Computing and Augmented Intelligence(SCAI)](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). I am now working at the [VADER lab](https://vader.lab.asu.edu/#/) under the supervision of [Prof.Ross Maciejewski](https://rmaciejewski.faculty.asu.edu/). Before that, I obtained my Bachelor degree in Mechanical Engineering from Shanghai Jiao Tong University(SJTU) and Master's degree in Computer Science from ShanghaiTech University.
 
 ## Research Interests
 
